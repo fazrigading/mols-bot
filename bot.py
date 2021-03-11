@@ -28,8 +28,8 @@ class jadwal:
     pbo = '13:00'
     sisope = '08:30'
 class account:
-    usr = '2009106031'
-    pwd = '516166'
+    usr = ''
+    pwd = ''
 acc = account()
 url = urls()
 jam = jadwal()
